@@ -1,4 +1,4 @@
-# Copyrighth 2025 Pathway Technology, Inc.
+# Copyright 2025 Pathway Technology, Inc.
 
 import dataclasses
 import math
